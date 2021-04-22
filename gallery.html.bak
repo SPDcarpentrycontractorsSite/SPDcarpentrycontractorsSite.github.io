@@ -22,16 +22,16 @@
     <div id="body">
       <h1><span>gallery</span></h1>
       <ul class="gallery">
-        <li> <a target="_blank" href="images/work1.jpg"> <img src="images/work1.jpg"
+        <li> <a target="_blank" href="images/work1-1.jpg"> <img src="images/work1.jpg"
 
               alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work2.jpg"> <img src="images/work2.jpg"
+        <li> <a target="_blank" href="images/work2-2.jpg"> <img src="images/work2.jpg"
 
               alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work3.jpg"> <img src="images/work3.jpg"
+        <li> <a target="_blank" href="images/work3-3.jpg"> <img src="images/work3.jpg"
 
               alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work4.jpg"> <img src="images/work4.jpg"
+        <li> <a target="_blank" href="images/work4-4.jpg"> <img src="images/work4.jpg"
 
               alt=""> </a> </li>
       </ul>
