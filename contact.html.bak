@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<!-- Website Template by freewebsitetemplates.com -->
+
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gallery - Wood Enthusiast</title>
+    <title>Contact - Wood Enthusiast</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
     <script type="text/javascript" src="js/mobile.js"></script>
@@ -13,32 +13,27 @@
     <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
 
           alt=""> </a>
-       <ul id="navigation">
+      <ul id="navigation">
         <li> <a href="index.html">home</a> </li>
-        <li class="selected"> <a href="gallery.html">gallery</a> </li>
-        <li> <a href="contact.html">contact</a> </li>
+        <li> <a href="gallery.html">gallery</a> </li>
+        <li class="selected"> <a href="contact.html">contact</a> </li>
       </ul>
     </div>
     <div id="body">
-      <h1><span>gallery</span></h1>
-      <ul class="gallery">
-        <li> <a target="_blank" href="images/work1.jpg"> <img src="images/work1.jpg"
+      <h1><span>let's keep in touch</span></h1>
+      <form action="contact.html"> <input name="fname" id="fname" value="name"
 
-              alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work2.jpg"> <img src="images/work2.jpg"
+          type="text"> <input name="address" id="address" value="address" type="text">
+        <input name="email" id="email" value="email" type="text"> <input name="phone"
 
-              alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work3.jpg"> <img src="images/work3.jpg"
+          id="phone" value="phone number" type="text"> <textarea name="message"
 
-              alt=""> </a> </li>
-        <li> <a target="_blank" href="images/work4.jpg"> <img src="images/work4.jpg"
-
-              alt=""> </a> </li>
-      </ul>
+id="message">message</textarea> <input name="send" id="send" value="send" type="submit">
+      </form>
     </div>
     <div id="footer">
       <div>
-       <p>© 2023 by SPD. All rights reserved.</p>
+        <p>© 2023 by SPD. All rights reserved.</p>
         <ul>
           <li> <a href="https://twitter.com/jokesmemesfacts?lang=en" id="twitter">twitter</a>
           </li>
