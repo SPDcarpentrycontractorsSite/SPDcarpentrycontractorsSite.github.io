@@ -9,7 +9,8 @@
     <script type="text/javascript" src="js/mobiles.js"></script>
   </head>
   <body>
-    <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
+    <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
+
           alt=""> </a>
       <ul id="navigation">
         <li class="selected"> <a href="index.html">home</a> </li>
@@ -27,16 +28,18 @@
       </div>
     </div>
     <div id="footer">
-      <div>
-        <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
-        <ul>
-          <li> <a href="https://en-gb.facebook.com/AlvinAndTheChipmunks" id="facebook">facebook</a>
-          </li>
-          <li> <a href="https://twitter.com/jokesmemesfacts?lang=en" id="twitter">twitter</a>
-          </li>
-        </ul>
+      <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
+        <div>
+          <ul>
+            <li> <a href="https://en-gb.facebook.com/AlvinAndTheChipmunks" id="facebook">facebook</a>
+            </li>
+            <li> <a href="https://twitter.com/jokesmemesfacts?lang=en" id="twitter">twitter</a>
+            </li>
+          </ul>
+        </div>
       </div>
+      <p style="text-align: center;">© 2023 by SPD. All rights reserved.</p>
     </div>
-    <p style="text-align: center;">© 2023 by SPD. All rights reserved.</p>
+    
   </body>
 </html>

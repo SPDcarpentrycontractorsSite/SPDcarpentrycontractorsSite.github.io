@@ -247,8 +247,10 @@ background: #cfcfcf;
 }
 
 #footer div {
+float:left;
   overflow: visible;
-  width: 100%;
+  width: 90%;
+
 }
 
 #footer div p {
@@ -258,9 +260,23 @@ background: #cfcfcf;
 }
 
 #footer div ul {
-  float: none;
   margin: 0px auto;
-  width: 256px;
+  width: 156px;
   text-align: center;
+
 }
+
+
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
 
