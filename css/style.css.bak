@@ -13,7 +13,7 @@ src: url("../fonts/leckerlione/leckerlione-regular-webfont.eot?#iefix") format("
 }
 
 body {
-  background: #cfcfcf none repeat scroll 0% 0%;
+  background: white none repeat scroll 0% 0%;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: normal;
@@ -103,6 +103,7 @@ p a:hover {
   font-weight: normal;
   margin: 0px;
   padding: 0px;
+  text-transform: uppercase;
 }
 
 #body h1 span {
@@ -250,25 +251,26 @@ transition: all 0.5s ease-in-out 0s;
 }
 
 #body #featured div {
-  left: 5%;
+  left: 50%;
   margin-left: -480px;
   margin-top: -171px;
   padding: 0px 0px 0px 470px;
   position: absolute;
-  top: 90%;
+  top: 50%;
   text-align: left;
-  width: 550px;
+  width: 490px;
 }
 
 #body #featured div h2 {
   background: white none repeat scroll 0% 0%;
   color: black;
   display: inline-block;
+  font-family: poller_oneregular;
   font-size: 20px;
   font-weight: normal;
   margin: 0px 0px 18px;
   padding: 23px 27px 20px;
-
+  text-transform: uppercase;
 }
 
 #body #featured div span {
