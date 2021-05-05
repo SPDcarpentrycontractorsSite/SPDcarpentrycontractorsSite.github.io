@@ -1,5 +1,5 @@
 body {
-background-color: #cfcfcf
+background: #cfcfcf;
   min-width: 0px;
 }
 
@@ -7,8 +7,8 @@ background-color: #cfcfcf
   padding: 20px 0px;
   position: relative;
   width: 100%;
-  background-color: white;
-  color: white;
+  background-color: #cfcfcf;
+  color: #cfcfcf;
 }
 
 #header a.logo {
