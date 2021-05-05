@@ -268,7 +268,6 @@ transition: all 0.5s ease-in-out 0s;
   font-weight: normal;
   margin: 0px 0px 18px;
   padding: 23px 27px 20px;
-
 }
 
 #body #featured div span {
@@ -389,6 +388,7 @@ transition: all 0.5s ease-in-out 0s;
   background: #252525 none repeat scroll 0% 0%;
   margin: 0px;
   padding: 36px 0px 42px;
+  text-align: left;
 }
 
 #footer div {
@@ -450,11 +450,11 @@ transition: all 0.5s ease-in-out 0s;
   background-position: -44px -44px;
 }
 
-#footer div ul li #googleplus {
+#footer div ul li #CHASE {
   background-position: 0px -88px;
 }
 
-#footer div ul li #googleplus:hover {
+#footer div ul li #CHASE:hover {
   background-position: -44px -88px;
 }
 
@@ -469,3 +469,4 @@ transition: all 0.5s ease-in-out 0s;
 #MenuBar {
   position: relative;
 }
+
