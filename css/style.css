@@ -12,6 +12,12 @@ src: url("../fonts/pollerone/pollerone-webfont.eot?#iefix") format("embedded-ope
 src: url("../fonts/leckerlione/leckerlione-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/leckerlione/leckerlione-regular-webfont.woff") format("woff"), url("../fonts/leckerlione/leckerlione-regular-webfont.ttf") format("truetype"), url("../fonts/leckerlione/leckerlione-regular-webfont.svg#leckerli_oneregular") format("svg");
 }
 
+html, body{ 
+  min-height: 100vh;
+  overflow: auto;
+}
+
+
 body {
   background: #cfcfcf none repeat scroll 0% 0%;
   font-family: Arial, Helvetica, sans-serif;
@@ -21,6 +27,8 @@ body {
   margin: 0px;
   min-width: 960px;
   padding: 0px;
+
+
 }
 
 p {
@@ -44,6 +52,7 @@ p a:hover {
   padding: 10px 0px 25px;
   text-align: center;
   width: 960px;
+min-height: 10vh;
 }
 
 #header a.logo {
@@ -266,6 +275,7 @@ transition: all 0.5s ease-in-out 0s;
   padding: 0px;
   position: relative;
   width: 100%;
+min-height: 60vh;
  
   background-image:url('../images/Kitchen.jpg');
 background-repeat: no-repeat;
