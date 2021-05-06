@@ -92,14 +92,15 @@ background: #cfcfcf;
 #body h1 {
   display: block;
   font-size: 20px;
-  margin: 0px auto;
+  margin: 0px 0px;
   width: 90%;
+  padding: 3%;
 }
 
 #body h1 span {
   display: block;
   padding: 3%;
-  width: 94%;
+  width: 90%;
 }
 
 #body > div {

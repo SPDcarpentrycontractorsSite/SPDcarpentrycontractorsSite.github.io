@@ -2,19 +2,11 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HR2ESK1JJR"></script>
-    <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HR2ESK1JJR');
-</script> <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact - Wood Enthusiast</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wood Enthusiast</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
-    <script type="text/javascript" src="js/mobile.js"></script>
+    <script type="text/javascript" src="js/mobiles.js"></script>
   </head>
   <body>
     <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
@@ -22,20 +14,16 @@
           alt=""> </a>
       <ul id="navigation">
         <li> <a href="index.html">home</a> </li>
-        <li> <a href="gallery.html">gallery</a> </li>
-        <li class="selected"> <a href="contact.html">contact</a> </li>
+        <li><a href="gallery.html">gallery</a> </li>
+        <li class="selected"><a href="contact.html">contact</a> </li>
       </ul>
     </div>
     <div id="body">
-      <div id="featuredContacts">
-        <div id="contact">
-          <h1><span>let's keep in touch</span></h1>
-          <form> <input name="email" id="email" value="SPDcarpentrycontractors@gmail.com"
-
-              type="text"> <input name="555-812859" id="phone" value="555-287444"
-
-              type="text"> </form>
-        </div>
+      <div id="featured"> <img src="images/Kitchen.jpg" alt="">
+        <div id="contact"> <h1>
+          <span>Keep In Touch<br></span></h1>
+          <span>SPDcarpentrycontractors@gmail.com</span>
+        <span>555-2368</span></div>
       </div>
     </div>
     <div id="footer">
@@ -51,6 +39,5 @@
       </div>
     </div>
     <p>© 2023 by SPD. All rights reserved.</p>
-    
   </body>
 </html>
