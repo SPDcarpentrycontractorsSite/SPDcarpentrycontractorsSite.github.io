@@ -86,7 +86,7 @@ p a:hover {
 }
 
 #header ul li a:hover, #header ul li.selected a {
-  color: #ffddaf;
+  color: rgb(6 185 160 / 75%);
 }
 
 #body {
