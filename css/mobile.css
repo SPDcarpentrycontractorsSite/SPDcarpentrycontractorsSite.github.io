@@ -87,7 +87,6 @@ background: #cfcfcf;
 
 #body {
   width: 100%;
-
 }
 
 #body h1 {
@@ -130,7 +129,7 @@ background: #cfcfcf;
 
 #body #featuredContacts {
   overflow: hidden;
-  margin: 0px 0px 10px;
+  margin: 0px 0px 0px;
 }
 
 #body #featuredContacts #contact{
