@@ -132,8 +132,6 @@ background: #cfcfcf;
   min-width: 960px;
 }
 
-
-
 #body #featured #home {
 left: 0px;
   margin: 0px;
@@ -151,7 +149,7 @@ left: 0px;
   padding: 8px 5px;
 }
 
-#body #featured div span {
+#body #featured #home span {
   display: block;
   font-size: 14px;
   margin: 10px 0px;
