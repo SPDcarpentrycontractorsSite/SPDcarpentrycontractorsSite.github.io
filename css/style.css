@@ -253,14 +253,13 @@ transition: all 0.5s ease-in-out 0s;
 #body #featured #home {
   left: 5%;
   margin-left: -500px;
-  margin-top: -171px;
+  margin-top: -200px;
   padding: 0px 0px 0px 470px;
   position: absolute;
   top: 90%;
   text-align: left;
-  width: 550px;
+  width: 50%;
  border: 3px solid green;
- 
 }
 
 #body #featuredContacts {

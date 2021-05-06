@@ -132,26 +132,16 @@ background: #cfcfcf;
   min-width: 960px;
 }
 
-#body #featured div {
-  left: 0px;
+
+
+#body #featured #home {
+left: 0px;
   margin: 0px;
   padding: 0px 2%;
   position: absolute;
   top: 200px;
   text-align: left;
   width: 96%;
-}
-
-#body #featured #home {
-  left: 5%;
-  margin-left: -500px;
-  margin-top: -171px;
-  padding: 0px 0px 0px 470px;
-  position: absolute;
-  top: 90%;
-  text-align: left;
-  width: 550px;
- border: 3px solid red;
 }
 
 #body #featured div h2 {
