@@ -142,6 +142,18 @@ background: #cfcfcf;
   width: 96%;
 }
 
+#body #featured #home {
+  left: 5%;
+  margin-left: -500px;
+  margin-top: -171px;
+  padding: 0px 0px 0px 470px;
+  position: absolute;
+  top: 90%;
+  text-align: left;
+  width: 550px;
+ border: 3px solid red;
+}
+
 #body #featured div h2 {
   font-size: 14px;
   font-weight: normal;
