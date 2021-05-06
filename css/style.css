@@ -269,7 +269,7 @@ transition: all 0.5s ease-in-out 0s;
   padding: 0px;
   position: relative;
   width: 100%;
-  border: 3px solid red;
+ 
   background-image:url('../images/Kitchen.jpg');
 background-repeat: no-repeat;
 background-size: cover;
