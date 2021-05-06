@@ -276,7 +276,7 @@ background-size: cover;
 
 }
 
-#body #featured #contact{
+#body #featuredContacts #contact{
 display: inline-block;
   margin: auto;
   width: 50%;
