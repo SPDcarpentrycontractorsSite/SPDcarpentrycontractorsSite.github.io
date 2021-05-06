@@ -93,6 +93,7 @@ p a:hover {
   margin: 0px;
   padding: 0px 0px 30px;
   text-align: center;
+ background-repeat: no-repeat;
 }
 
 #body h1 {
@@ -239,6 +240,8 @@ transition: all 0.5s ease-in-out 0s;
   padding: 0px;
   position: relative;
   width: 100%;
+  border: 3px solid red;
+
 }
 
 #body #featured img {
@@ -249,7 +252,7 @@ transition: all 0.5s ease-in-out 0s;
   width: 100%;
 }
 
-#body #featured div {
+#body #featured #home {
   left: 5%;
   margin-left: -480px;
   margin-top: -171px;
@@ -258,7 +261,30 @@ transition: all 0.5s ease-in-out 0s;
   top: 90%;
   text-align: left;
   width: 550px;
+  border: 3px solid green;
 }
+
+#body #featuredContacts {
+  margin: auto;
+  padding: 0px;
+  position: relative;
+  width: 100%;
+  border: 3px solid red;
+  background-image:url('../images/Kitchen.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#body #featured #contact{
+display: inline-block;
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
 
 #body #featured div h2 {
   background: white none repeat scroll 0% 0%;
@@ -279,6 +305,14 @@ transition: all 0.5s ease-in-out 0s;
   padding: 12px 27px;
 }
 
+#body #featuredContacts #contact span {
+  background: #252525 none repeat scroll 0% 0%;
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  margin: 22px 0px;
+    padding: 12px 27px;
+}
 #body #featured div a {
   background: #0ba39c none repeat scroll 0% 0%;
   color: white;
@@ -344,8 +378,9 @@ transition: all 0.5s ease-in-out 0s;
 
 #body form {
   margin: 0px auto;
-  padding: 24px 0px 0px;
+  padding: 124px 0px 0px;
   width: 620px;
+  height: 300px;
 }
 
 #body form input, #body form textarea {
@@ -354,35 +389,20 @@ transition: all 0.5s ease-in-out 0s;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   font-weight: normal;
-  margin: 0px 0px 37px;
-  padding: 20px 10px;
+  margin: 0px 0px 17px;
+  padding: 10px 10px;
   text-align: center;
   text-transform: uppercase;
-  width: 596px;
+  width: 396px;
 }
 
 #body form textarea {
   height: 175px;
+
   overflow: auto;
   resize: none;
 }
 
-#body form #send {
-  background: #252525 none repeat scroll 0% 0%;
-  color: white;
-  font-family: "Arial Black", Gadget, sans-serif;
-  font-size: 15px;
-  font-weight: normal;
-  display: inline-block;
-  padding: 20px 28px;
-  width: auto;
-}
-
-#body form #send:hover {
-  background: white none repeat scroll 0% 0%;
-  color: #252525;
-  cursor: pointer;
-}
 
 #footer {
   background: #252525 none repeat scroll 0% 0%;
@@ -422,7 +442,9 @@ transition: all 0.5s ease-in-out 0s;
   list-style: outside none none;
   margin: 0px 10px;
   padding: 0px;
+padding-bottom: 10px;
   width: 44px;
+
 }
 
 #footer div ul li a {
@@ -451,11 +473,11 @@ transition: all 0.5s ease-in-out 0s;
   background-position: -44px -44px;
 }
 
-#footer div ul li #CHASE {
+#footer div ul li #Insta {
   background-position: 0px -88px;
 }
 
-#footer div ul li #CHASE:hover {
+#footer div ul li #Insta:hover {
   background-position: -44px -88px;
 }
 
