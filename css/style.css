@@ -252,7 +252,7 @@ transition: all 0.5s ease-in-out 0s;
 }
 
 #body #featured img {
-  border: 0px none;
+  border: 0px;
   display: block;
   margin: 0px;
   padding: 0px;
@@ -508,4 +508,3 @@ padding-bottom: 10px;
 #MenuBar {
   position: relative;
 }
-
