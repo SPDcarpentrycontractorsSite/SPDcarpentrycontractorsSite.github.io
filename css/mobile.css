@@ -124,7 +124,7 @@ background: #cfcfcf;
 }
 
 #body #featured {
-  overflow: hidden;
+
   margin: 0px 0px 20px;
 }
 
@@ -149,9 +149,10 @@ left: 0px;
   margin: 0px;
   padding: 0px 2%;
   position: absolute;
-  top: 200px;
+  top: 380px;
   text-align: left;
   width: 96%;
+border: 3px solid green;
 }
 
 #body #featured div h2 {
@@ -264,14 +265,13 @@ left: 0px;
 }
 
 #footer {
-  padding: 10px 0px 25px;
+  padding: 200px 0px 25px;
 }
 
 #footer div {
 float:none;
   overflow: visible;
   width: 90%;
-
 }
 
 #footer div p {
