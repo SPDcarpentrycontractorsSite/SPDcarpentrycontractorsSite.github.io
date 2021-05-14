@@ -149,7 +149,7 @@ margin: -166px 25%;
   padding: 0px 0px 0px 0px;
   position: absolute;
   text-align: center;
-  width: 70%;
+  width: 50%;
 }
 
 #body #featured div h2 {
@@ -162,7 +162,8 @@ margin: -166px 25%;
 #body #featured #home span {
   display: block;
   font-size: 14px;
-  margin: 10px 0px;
+      margin-top: -50px;
+margin-bottom: 40px;
   padding: 10px;
 }
 
