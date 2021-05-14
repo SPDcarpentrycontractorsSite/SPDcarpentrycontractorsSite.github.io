@@ -287,7 +287,7 @@ transition: all 0.5s ease-in-out 0s;
   padding: 23px 27px 20px;
 }
 
-#body #featured div span {
+#body #featured #home span {
   background: #252525 none repeat scroll 0% 0%;
   color: white;
   display: inline-block;
@@ -297,13 +297,13 @@ transition: all 0.5s ease-in-out 0s;
 
 }
 
-#body Contacts #contact span {
+#body #featured #contact span {
   background: #252525 none repeat scroll 0% 0%;
   color: white;
   display: inline-block;
-  font-size: 20px;
-  margin: 22px 0px;
-    padding: 12px 27px;
+  font-size: 33px;
+  margin: 7px 0px;
+    padding: 6px 27px;
 }
 #body #featured div a {
   background: #0ba39c none repeat scroll 0% 0%;
@@ -424,7 +424,7 @@ transition: all 0.5s ease-in-out 0s;
   margin: 0px;
   overflow: hidden;
   padding: 0px;
-  width: 256px;
+
 
 }
 
