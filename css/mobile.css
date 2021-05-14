@@ -125,7 +125,7 @@ background: #cfcfcf;
 
 #body #featured {
   overflow: hidden;
-  margin: 0px 0px 20px;
+  margin: 0px 0px 0px;
 }
 
 #body #featuredContacts {
@@ -145,7 +145,7 @@ display: inline-block;
 }
 
 #body #featured #home {
-margin: -166px 10%;
+margin: -48px 10%;
   padding: 0px 0px 0px 0px;
   position: absolute;
   text-align: center;
