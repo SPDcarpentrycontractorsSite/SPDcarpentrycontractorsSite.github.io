@@ -145,11 +145,11 @@ display: inline-block;
 }
 
 #body #featured #home {
-margin: -166px 25%;
+margin: -166px 10%;
   padding: 0px 0px 0px 0px;
   position: absolute;
   text-align: center;
-  width: 50%;
+  width: 80%;
 }
 
 #body #featured div h2 {
@@ -285,5 +285,4 @@ float:none;
   text-align: center;
 
 }
-
 
