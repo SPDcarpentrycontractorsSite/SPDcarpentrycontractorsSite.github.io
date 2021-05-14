@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="mobile.css" media="screen and (max-width : 568px)">
     <title>Test</title>
@@ -17,15 +17,15 @@
         <li><a href="contact.html">contact</a> </li>
       </ul>
     </div>
-    <div id="body"> <img src="images/the-beacon.jpg" alt=""> </div>
+    <div id="body">  </div>
     <div class="row">
       <div class="column left" style="background-color:#aaa;">
         <div style="text-align: right"> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;"></div>
       </div>
-      <div class="column middle" style="background-color:#bbb;"> <span>SPD Carpentry
-          Contractors Limited offer a reliable and capable carpentry service to
-          contractors, developers and individuals across Berkshire and the
-          surrounding counties</span><br>
+      <div class="column middle" style="background-color:#bbb;"> <span>SPD
+          Carpentry Contractors Limited offer a reliable and capable carpentry
+          service to contractors, developers and individuals across Berkshire
+          and the surrounding counties</span><br>
         <br>
         <span>SPD Carpentry endeavor to produce and deliver quality product in
           time for you and your client</span>
