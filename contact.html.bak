@@ -2,45 +2,41 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="mobile.css" media="screen and (max-width : 568px)">
-    <title>Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wood Enthusiast</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
+    <script type="text/javascript" src="js/mobiles.js"></script>
   </head>
   <body>
     <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
 
           alt=""> </a>
       <ul id="navigation">
-        <li> <a href="index.html">home</a> </li>
+        <li class="selected"> <a href="index.html">home</a> </li>
         <li><a href="gallery.html">gallery</a> </li>
-        <li class="selected"><a href="contact.html">contact</a> </li>
+        <li><a href="contact.html">contact</a> </li>
       </ul>
     </div>
-    <div id="body"> <img src="images/Kitchen.jpg" alt=""> </div>
-    <div class="row">
-      <div class="column left" style="background-color:#aaa;">
-        <div style="text-align: right"> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;"></div>
-      </div>
-      <div class="column middle" style="background-color:#bbb;">
-        
-        
-      <div id="contact"> <h1>
-          <span>Keep In Touch</span></h1><br>
-          <span>SPDcarpentrycontractors@gmail.com</span><br>
-        <span>555-2368</span></div>
-        
-        
-        
-        <br>
-        <span></span>
-        <p></p>
-      </div>
-      <div class="column right" style="background-color:#ccc;">
-        <div style="text-align: left"> <a href="https://www.instagram.com/spd_carpentry_contractors/"><img
-
-              src="images/instagram.png" alt="" "=""></a></div>
+    <div id="body">
+      <div id="featured"> <img src="images/Kitchen.jpg" alt="">
+        <div id="home"> 
+          <span>Keep in Touch</span>
+          <span>SPDcarpentrycontractors@gmail.com</span></div>
       </div>
     </div>
+    <div id="footer">
+      <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
+        <ul>
+          <li> <a href="https://en-gb.facebook.com/AlvinAndTheChipmunks" id="facebook">facebook</a>
+          </li>
+          <li> <a href="https://twitter.com/jokesmemesfacts?lang=en" id="twitter">Twitter</a>
+          </li>
+          <li> <a href="https://www.instagram.com/spd_carpentry_contractors/" id="Insta">Instagram</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <p>© 2023 by SPD. All rights reserved.</p>
   </body>
 </html>

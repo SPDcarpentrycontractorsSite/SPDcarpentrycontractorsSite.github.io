@@ -269,32 +269,11 @@ transition: all 0.5s ease-in-out 0s;
 
 
 #body #featured #contact{
-  left: 50%;
-  margin-left: -200px;
-  margin-top: 0px;
+  margin: 0px 25%;
   padding: 0px 0px 0px 0px;
   position: absolute;
-  top: 5%;
   text-align: center;
-  width: 400px;
- 
-}
-
-#body #featuredContacts {
-  margin: auto;
-  padding: 0px;
-  position: relative;
-  width: 100%;
-min-height: 60vh;
-
-
-}
-
-#body #featuredContacts #contact{
-display: inline-block;
-  margin: auto;
   width: 50%;
-  padding: 10px;
 }
 
 
@@ -318,7 +297,7 @@ display: inline-block;
 
 }
 
-#body #featuredContacts #contact span {
+#body Contacts #contact span {
   background: #252525 none repeat scroll 0% 0%;
   color: white;
   display: inline-block;
