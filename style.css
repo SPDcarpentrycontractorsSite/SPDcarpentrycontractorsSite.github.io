@@ -70,8 +70,12 @@ min-height: 10vh;
   margin: 0px auto;
   padding: 10px 0px 0px;
   text-align: center;
-  width: 1600px;
-min-height: 10vh;
+min-height: 90vh;
+  -ms-background-position-x: center;
+  -ms-background-position-y: bottom;
+  background-position: center bottom;
+    background-image: url("images/the-beacon.jpg");
+background-size: cover; /* or 100% */
 }
 
 

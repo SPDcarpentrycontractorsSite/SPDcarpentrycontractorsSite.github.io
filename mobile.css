@@ -12,6 +12,7 @@ body {
   margin: 0px;
   min-width: 960px;
   padding: 0px;
+  
 }
 
 #header {
@@ -71,10 +72,13 @@ min-height: 10vh;
   padding: 10px 0px 25px;
   text-align: center;
   width: 1600px;
-min-height: 10vh;
+min-height: 90vh;
+  -ms-background-position-x: center;
+  -ms-background-position-y: bottom;
+  background-position: center bottom;
+    background-image: url("images/the-beacon.jpg");
+background-size: cover; /* or 100% */
 }
-
-
 
 
 * {
