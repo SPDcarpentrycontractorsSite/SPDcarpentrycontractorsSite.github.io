@@ -1,0 +1,113 @@
+html, body{ 
+  min-height: 100vh;
+  overflow: auto;
+}
+
+body {
+  background: #cfcfcf none repeat scroll 0% 0%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1;
+  margin: 0px;
+  min-width: 960px;
+  padding: 0px;
+}
+
+#header {
+  margin: 0px auto;
+  padding: 10px 0px 25px;
+  text-align: center;
+  width: 960px;
+min-height: 10vh;
+}
+
+#header a.logo {
+  display: block;
+  margin: 0px auto;
+  padding: 0px;
+  width: 340px;
+}
+
+#header a.logo img {
+  border: 0px none;
+  display: block;
+  margin: 0px;
+  padding: 0px;
+}
+
+#header ul {
+  margin: 0px;
+  padding: 5px 0px 0px;
+}
+
+#header ul li {
+  display: inline;
+  list-style: outside none none;
+  margin: 0px;
+  padding: 0px 19px;
+  text-align: center;
+}
+
+#header ul li a {
+  color: #252525;
+  display: inline-block;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px 0px 3px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#header ul li a:hover, #header ul li.selected a {
+  color: rgb(6 185 160 / 75%);
+}
+
+
+#body{
+  margin: 0px auto;
+  padding: 10px 0px 25px;
+  text-align: center;
+  width: 1600px;
+min-height: 10vh;
+}
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+text-align: center;
+}
+
+.column span{
+color:white;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+ 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
