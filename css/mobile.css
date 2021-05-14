@@ -150,7 +150,7 @@ margin: -48px 10%;
   position: absolute;
   text-align: center;
   width: 80%;
-bottom 0%;
+  bottom: 1%;
 }
 
 #body #featured div h2 {
