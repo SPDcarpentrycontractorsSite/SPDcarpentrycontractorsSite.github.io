@@ -47,7 +47,7 @@ background: #cfcfcf;
 #header ul li a {
   color: #252525;
   display: inline;
-  font-family: "Arial Black", Gadget, sans-serif;
+  font-family: Franklin Gothic Medium;
   font-size: 14px;
   font-weight: normal;
   margin: 0px;
@@ -291,6 +291,30 @@ float:none;
 }
 
 #footer div ul {
+  margin: 0px auto;
+  width: 156px;
+  text-align: center;
+
+}
+
+#footergallery {
+  padding: 10px 0px 25px;
+}
+
+#footergallery div {
+float:none;
+  overflow: visible;
+  width: 90%;
+
+}
+
+#footergallery div p {
+  float: none;
+  margin: 0px;
+  text-align: center;
+}
+
+#footergallery div ul {
   margin: 0px auto;
   width: 156px;
   text-align: center;

@@ -20,7 +20,7 @@ html, body{
 
 body {
   background: #cfcfcf none repeat scroll 0% 0%;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Franklin Gothic Medium;
   font-size: 14px;
   font-weight: normal;
   line-height: 1;
@@ -106,17 +106,16 @@ min-height: 10vh;
 }
 
 #body h1 {
-  color: white;
+  color: black;
   display: inline;
-  font-family: poller_oneregular;
-  font-size: 35px;
+  font-size: 45px;
   font-weight: normal;
   margin: 0px;
   padding: 0px;
 }
 
 #body h1 span {
-  background: #252525 none repeat scroll 0% 0%;
+  background: none repeat scroll 0% 0%;
   display: inline-block;
   padding: 0px 28px 0px;
 }
@@ -478,6 +477,92 @@ padding-bottom: 10px;
 }
 
 #footer div ul li #pinterest:hover {
+  background-position: -44px -132px;
+}
+
+#footergallery {
+  background: #252525 none repeat scroll 0% 0%;
+  margin: 0px;
+  padding: 50px 0px 42px;
+  text-align: left;
+
+}
+
+#footergallery div {
+  margin: 0px auto;
+  overflow: hidden;
+  padding: 0px;
+  width: 960px;
+}
+
+#footergallery div p {
+  color: white;
+  float: left;
+  line-height: 44px;
+  margin: 0px 0px 0px 10px;
+  padding: 0px;
+}
+
+#footergallery div ul {
+  display: block;
+  float: right;
+  margin: 0px;
+  overflow: hidden;
+  padding: 0px;
+
+
+}
+
+#footergallery div ul li {
+  display: block;
+  float: left;
+  list-style: outside none none;
+  margin: 0px 10px;
+  padding: 0px;
+padding-bottom: 10px;
+  width: 44px;
+
+}
+
+#footergallery div ul li a {
+  background: rgba(0, 0, 0, 0) url("../images/icons.jpg") no-repeat scroll 0px 0px;
+  display: block;
+  height: 44px;
+  margin: 0px;
+  padding: 0px;
+  text-indent: -99999px;
+  width: 44px;
+}
+
+#footergallery div ul li #twitter {
+  background-position: 0px 0px;
+}
+
+#footergallery div ul li #twitter:hover {
+  background-position: -44px 0px;
+}
+
+#footergallery div ul li #facebook {
+  background-position: 0px -44px;
+}
+
+#footergallery div ul li #facebook:hover {
+  background-position: -44px -44px;
+}
+
+#footergallery div ul li #Insta {
+  background-position: 0px -88px;
+}
+
+#footergallery div ul li #Insta:hover {
+  background-position: -44px -88px;
+}
+
+#footergallery div ul li #pinterest {
+  background-position: 0px -132px;
+}
+
+#footergallery div ul li #pinterest:hover {
   background-position: -44px -132px;
 }
 
