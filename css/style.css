@@ -260,7 +260,7 @@ transition: all 0.5s ease-in-out 0s;
 }
 
 #body #featured #home {
-  margin: 0px auto;
+  margin: 0px 25%;
   padding: 0px 0px 0px 0px;
   position: absolute;
   text-align: center;
@@ -419,7 +419,7 @@ transition: all 0.5s ease-in-out 0s;
 #footer {
   background: #252525 none repeat scroll 0% 0%;
   margin: 0px;
-  padding: 360px 0px 42px;
+  padding: 190px 0px 42px;
   text-align: left;
 
 }
