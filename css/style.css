@@ -260,13 +260,10 @@ transition: all 0.5s ease-in-out 0s;
 }
 
 #body #featured #home {
-  left: 5%;
-  margin-left: -500px;
-  margin-top: -200px;
-  padding: 0px 0px 0px 470px;
+  margin: 0px auto;
+  padding: 0px 0px 0px 0px;
   position: absolute;
-  top: 90%;
-  text-align: left;
+  text-align: center;
   width: 50%;
 }
 
@@ -423,8 +420,9 @@ transition: all 0.5s ease-in-out 0s;
 #footer {
   background: #252525 none repeat scroll 0% 0%;
   margin: 0px;
-  padding: 36px 0px 42px;
+  padding: 360px 0px 42px;
   text-align: left;
+
 }
 
 #footer div {
