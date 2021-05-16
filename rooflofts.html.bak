@@ -27,29 +27,36 @@
       </ul>
     </div>
     <div id="body">
-        <ul class="gallery">
-             <li><a target="_blank" href="images/RoofLofts/1.png"> <img
-              src="images/RoofLofts/icons/icon-01.png" alt=""> </a> </li>
-             <li><a target="_blank" href="images/RoofLofts/2.png"> <img
-              src="images/RoofLofts/icons/icon-02.png" alt=""> </a> </li>
-             <li><a target="_blank" href="images/RoofLofts/3.png"> <img
-              src="images/RoofLofts/icons/icon-03.png" alt=""> </a> </li>
-        <li><a target="_blank" href="images/RoofLofts/4.png"> <img
-              src="images/RoofLofts/icons/icon-04.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/RoofLofts/5.png"> <img
-              src="images/RoofLofts/icons/icon-05.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/RoofLofts/6.png"> <img
-              src="images/RoofLofts/icons/icon-06.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/RoofLofts/7.png"> <img
-              src="images/RoofLofts/icons/icon-07.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/RoofLofts/8.png"> <img
-              src="images/RoofLofts/icons/icon-08.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/RoofLofts/9.png"> <img
-              src="images/RoofLofts/icons/icon-09.png" alt=""> </a> </li>     
+      <h1><span>Roof & Lofts</span></h1>
+      <ul class="gallery">
+        <li><a target="_blank" href="images/RoofLofts/1.png"> <img src="images/RoofLofts/icons/icon-01.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/2.png"> <img src="images/RoofLofts/icons/icon-02.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/3.png"> <img src="images/RoofLofts/icons/icon-03.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/4.png"> <img src="images/RoofLofts/icons/icon-04.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/5.png"> <img src="images/RoofLofts/icons/icon-05.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/6.png"> <img src="images/RoofLofts/icons/icon-06.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/7.png"> <img src="images/RoofLofts/icons/icon-07.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/8.png"> <img src="images/RoofLofts/icons/icon-08.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/RoofLofts/9.png"> <img src="images/RoofLofts/icons/icon-09.png"
+
+              alt=""> </a> </li>
       </ul>
-      
-      
-      
     </div>
     <div id="footergallery">
       <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">

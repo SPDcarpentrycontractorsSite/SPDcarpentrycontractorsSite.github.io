@@ -26,7 +26,7 @@
         <li> <a href="contact.html">contact</a> </li>
       </ul>
     </div>
-    <div id="body" style="background-image: url(images/contactbackground.jpg)">
+    <div id="body" >
       <ul class="gallery">
         <li> Staircases <a target="_self" href="staircases.html"> <img src="images/Staircases/icon.png"
 

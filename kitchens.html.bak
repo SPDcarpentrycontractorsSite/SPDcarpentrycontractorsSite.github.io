@@ -27,30 +27,36 @@
       </ul>
     </div>
     <div id="body">
-     
-      
-       <ul class="gallery">
-             <li><a target="_blank" href="images/Kitchens/1.png"> <img
-              src="images/Kitchens/icons/icon-01.png" alt=""> </a> </li>
-             <li><a target="_blank" href="images/Kitchens/2.png"> <img
-              src="images/Kitchens/icons/icon-02.png" alt=""> </a> </li>
-             <li><a target="_blank" href="images/Kitchens/3.png"> <img
-              src="images/Kitchens/icons/icon-03.png" alt=""> </a> </li>
-        <li><a target="_blank" href="images/Kitchens/4.png"> <img
-              src="images/Kitchens/icons/icon-04.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/Kitchens/5.png"> <img
-              src="images/Kitchens/icons/icon-05.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/Kitchens/6.png"> <img
-              src="images/Kitchens/icons/icon-06.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/Kitchens/7.png"> <img
-              src="images/Kitchens/icons/icon-07.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/Kitchens/8.png"> <img
-              src="images/Kitchens/icons/icon-08.png" alt=""> </a> </li>
-         <li><a target="_blank" href="images/Kitchens/9.png"> <img
-              src="images/Kitchens/icons/icon-09.png" alt=""> </a> </li>     
+      <h1><span>Kitchens</span></h1>
+      <ul class="gallery">
+        <li><a target="_blank" href="images/Kitchens/1.png"> <img src="images/Kitchens/icons/icon-01.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/2.png"> <img src="images/Kitchens/icons/icon-02.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/3.png"> <img src="images/Kitchens/icons/icon-03.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/4.png"> <img src="images/Kitchens/icons/icon-04.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/5.png"> <img src="images/Kitchens/icons/icon-05.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/6.png"> <img src="images/Kitchens/icons/icon-06.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/7.png"> <img src="images/Kitchens/icons/icon-07.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/8.png"> <img src="images/Kitchens/icons/icon-08.png"
+
+              alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/9.png"> <img src="images/Kitchens/icons/icon-09.png"
+
+              alt=""> </a> </li>
       </ul>
-      
-      
     </div>
     <div id="footergallery">
       <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
