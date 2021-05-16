@@ -212,8 +212,8 @@ margin-bottom: 40px;
 
 #body ul.gallery li {
   float: left;
-  margin: 0px 0px 5% 5%;
-  width: 42%;
+  margin: 0px 0px 5% 10%;
+  width: 35%;
 }
 
 #body > ul li a img {

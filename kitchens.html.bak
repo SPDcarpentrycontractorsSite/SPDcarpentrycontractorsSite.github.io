@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-HR2ESK1JJR"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HR2ESK1JJR');
+</script> <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Wood Enthusiast</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
+    <script type="text/javascript" src="js/mobile.js"></script>
+  </head>
+  <body>
+    <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
+
+          alt=""> </a>
+      <ul id="navigation">
+        <li> <a href="index.html">home</a> </li>
+        <li class="selected"> <a href="gallery.html">gallery</a> </li>
+        <li> <a href="contact.html">contact</a> </li>
+      </ul>
+    </div>
+    <div id="body">
+     
+      
+       <ul class="gallery">
+             <li><a target="_blank" href="images/Kitchens/1.png"> <img
+              src="images/Kitchens/icons/icon-01.png" alt=""> </a> </li>
+             <li><a target="_blank" href="images/Kitchens/2.png"> <img
+              src="images/Kitchens/icons/icon-02.png" alt=""> </a> </li>
+             <li><a target="_blank" href="images/Kitchens/3.png"> <img
+              src="images/Kitchens/icons/icon-03.png" alt=""> </a> </li>
+        <li><a target="_blank" href="images/Kitchens/4.png"> <img
+              src="images/Kitchens/icons/icon-04.png" alt=""> </a> </li>
+         <li><a target="_blank" href="images/Kitchens/5.png"> <img
+              src="images/Kitchens/icons/icon-05.png" alt=""> </a> </li>
+         <li><a target="_blank" href="images/Kitchens/6.png"> <img
+              src="images/Kitchens/icons/icon-06.png" alt=""> </a> </li>
+         <li><a target="_blank" href="images/Kitchens/7.png"> <img
+              src="images/Kitchens/icons/icon-07.png" alt=""> </a> </li>
+         <li><a target="_blank" href="images/Kitchens/8.png"> <img
+              src="images/Kitchens/icons/icon-08.png" alt=""> </a> </li>
+         <li><a target="_blank" href="images/Kitchens/9.png"> <img
+              src="images/Kitchens/icons/icon-09.png" alt=""> </a> </li>     
+      </ul>
+      
+      
+    </div>
+    <div id="footergallery">
+      <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
+        <ul>
+          <li> <a href="https://en-gb.facebook.com/AlvinAndTheChipmunks" id="facebook">facebook</a>
+          </li>
+          <li> <a href="https://twitter.com/jokesmemesfacts?lang=en" id="twitter">Twitter</a>
+          </li>
+          <li> <a href="https://www.instagram.com/spd_carpentry_contractors/" id="Insta">Instagram</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <p>© 2023 by SPD. All rights reserved.</p>
+  </body>
+</html>
