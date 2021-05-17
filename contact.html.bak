@@ -9,7 +9,7 @@
     <script type="text/javascript" src="js/mobiles.js"></script>
   </head>
   <body>
-    <div id="header"> <a href="index.html" class="logo"> [<img src="images/logo.jpg"
+    <div id="header"> <a href="index.html" class="logo"> <img src="images/logo.jpg"
 
           alt=""> </a>
       <ul id="navigation">
