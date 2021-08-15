@@ -603,6 +603,12 @@ background: #252525;
     margin: 0 auto;
     text-align: center;
 }
+
+#wrapper p{
+color:white;
+font-size: 8px;
+}
+
 .aboutleft,
 .aboutright{
 background: #252525;
@@ -612,11 +618,22 @@ background: #252525;
 	color: white;
 padding-top: 20px;
 }
-.vline{
-    background: rgb(186,177,152);
-    display: inline-block;
-    vertical-align:top;
-    min-height: 250px;
-    margin: 0;
-    width: 1px;
+
+#wrapper a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
 }
+
+#wrapper a:hover {
+ color: rgb(6 185 160 / 75%);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+ color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
