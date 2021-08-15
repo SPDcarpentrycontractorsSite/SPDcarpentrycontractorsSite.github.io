@@ -87,6 +87,7 @@ background: #cfcfcf;
 
 #body {
   width: 100%;
+  overflow:hidden;
 }
 
 #body #featured img {
