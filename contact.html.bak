@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact - SPD Carpentry</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
   </head>
   <body>
@@ -19,18 +19,26 @@
     </div>
     <div id="body">
       <div id="featured"> <img src="images/contact.png" alt=""> </div>
+   <div id = "wrapper">
+    
+    <div class = "aboutleft"> 
+       <h1> Contact </h1>
+        <h3> Phone:07501 727173</h3>
+      	 <h3> Email: SPDcarpentrycontractors@gmail.com</h3>
+         <h3> Web: www.spd-carpentry.com</h3>
+        
     </div>
-    <div id="footer">
-      <div> <br>
-        <ul>
-          <li> <a href="https://www.facebook.com/SPD-Carpentry-contractors-100549642096917"
-
-              id="facebook">facebook</a> </li>
-          <li> <a href="https://www.instagram.com/spd_carpentry_contractors/" id="Insta">Instagram</a>
-          </li>
-        </ul>
-      </div>
+    
+    <div class = "vline"></div>
+    
+    <div class = "aboutright">
+        <h1> Follow Us </h1>
+        <h2> Facebook </h2>
+      	 <h2> Instagram  </h2>
+       
     </div>
+    
+</div>
     <p>© 2023 by SPD. All rights reserved.</p>
     
   </body>
