@@ -255,10 +255,14 @@ transition: all 0.5s ease-in-out 0s;
   display: block;
   margin: auto;
   padding: 0px;
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
   
 }
 
 #body #featured #home {
+  background: #252525;
   margin: 0px 25%;
   padding: 0px 0px 0px 0px;
   position: absolute;

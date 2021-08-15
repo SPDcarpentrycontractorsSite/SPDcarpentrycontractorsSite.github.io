@@ -89,6 +89,12 @@ background: #cfcfcf;
   width: 100%;
 }
 
+#body #featured img {
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
 #body h1 {
   display: block;
   font-size: 20px;
@@ -140,9 +146,6 @@ display: inline-block;
   padding: 10px;
 }
 
-#body #featured img {
-  min-width: 960px;
-}
 
 #body #featured #home {
 margin: -48px 0%;
