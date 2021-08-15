@@ -609,7 +609,8 @@ background: #252525;
     display: inline-block;
     vertical-align:top;
     width: 25%;
-color: white;
+	color: white;
+padding-top: 20px;
 }
 .vline{
     background: rgb(186,177,152);
