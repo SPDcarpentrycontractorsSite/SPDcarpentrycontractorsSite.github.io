@@ -19,7 +19,9 @@
     </div>
     <div id="body">
       <div id="featured"> <img src="images/contact.png" alt=""> </div>
-   <div id = "wrapper">
+
+    </div>
+    <div id = "wrapper">
     
     <div class = "aboutleft"> 
        <h1> Contact </h1>
@@ -37,8 +39,6 @@
       	 <h2> Instagram  </h2>
        
     </div>
-    
-</div>
     <p>© 2023 by SPD. All rights reserved.</p>
     
   </body>
