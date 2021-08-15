@@ -62,12 +62,13 @@
       </ul>
     </div>
     <div id="footergallery">
-      <div> <img src="images/Chas.png" alt="" style="width: 176px; height: 93px;">
+      <div> <br>
+         <span>Please refer to our Social Media Platforms for more detailed
+          examples of our work</span>
         <ul>
           <li> <a href="https://www.facebook.com/SPD-Carpentry-contractors-100549642096917"
 
               id="facebook">facebook</a> </li>
-         
           <li> <a href="https://www.instagram.com/spd_carpentry_contractors/" id="Insta">Instagram</a>
           </li>
         </ul>
