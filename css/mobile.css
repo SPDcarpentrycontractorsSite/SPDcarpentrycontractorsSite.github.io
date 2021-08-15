@@ -329,3 +329,29 @@ float:none;
 
 }
 
+#wrapper{
+background: #252525;
+    text-align:center;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.aboutleft,
+.aboutright{
+background: #252525;
+    display: inline-block;
+    vertical-align:top;
+    width: 25%;
+	color: white;
+padding-top: 20px;
+font-size: 12px;
+}
+.vline{
+    background: rgb(186,177,152);
+    display: inline-block;
+    vertical-align:top;
+    min-height: 250px;
+    margin: 0;
+    width: 1px;
+}
+
