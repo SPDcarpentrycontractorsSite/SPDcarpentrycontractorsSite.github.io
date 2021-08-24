@@ -352,9 +352,9 @@ background: #252525;
 background: #252525;
     display: inline-block;
     vertical-align:top;
-    width: 57%;
+    width: 77%;
 	color: white;
-padding-top: 20px;
+padding-top: 0px;
 font-size: 10px;
  text-align: left;
 }
@@ -363,12 +363,25 @@ font-size: 10px;
 background: #252525;
     display: inline-block;
     vertical-align:top;
-    width: 40%;
+    width: 20%;
 	color: white;
-padding-top: 20px;
+padding-top: 0px;
 font-size: 10px;
  text-align: left;
 }
+
+
+.middle{
+background: #252525;
+    display: inline-block;
+    vertical-align:top;
+    width: 90%;
+	color: white;
+padding-top: 0px;
+font-size: 10px;
+ text-align: center;
+}
+
 
 #wrapper a:link {
   color: white;
