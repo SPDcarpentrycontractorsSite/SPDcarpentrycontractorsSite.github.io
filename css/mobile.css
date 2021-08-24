@@ -345,6 +345,7 @@ background: #252525;
 	color: white;
 padding-top: 20px;
 font-size: 10px;
+ text-align: left;
 }
 .aboutright{
 background: #252525;
@@ -354,6 +355,7 @@ background: #252525;
 	color: white;
 padding-top: 20px;
 font-size: 10px;
+ text-align: left;
 }
 
 #wrapper a:link {

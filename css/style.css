@@ -626,7 +626,8 @@ background: #252525;
     vertical-align:top;
     width: 20%;
 	color: white;
-padding-top: 20px;
+padding-top: 20px; 
+text-align: left;
 }
 
 #wrapper a:link {
