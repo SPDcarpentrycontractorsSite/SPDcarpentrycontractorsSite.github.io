@@ -292,6 +292,17 @@ float:none;
 
 }
 
+#footer span {
+  background: #252525 none repeat scroll 0% 0%;
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  margin: 7px 0px;
+  padding: 12px 27px;
+
+}
+
+
 #footer div p {
   float: none;
   margin: 0px;
